@@ -51,7 +51,7 @@ DSA Saga is a web application designed to help beginners understand and practice
 
 # Deployment
 
-The App is deployed on Vercel. Click to try it: DSA Saga
+The App is deployed on Vercel. Click to try it: [DSA Saga](https://dsa-saga.onrender.com)
 
 # Contact
 
